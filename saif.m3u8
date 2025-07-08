@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1D4wgI-1078i1gm1pJdN9Z5W4R188zE8_/view",INDEPENDENT TV
+#EXTINF:-6 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="BANGLA",INDEPENDENT TV
 https://m.xigzo.store/yt/live.php?video_id=wuUhC6jfqrY
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1EEivILJg1RmmIWNlm5mH4FJYXVB3rbIw/view?usp=sharing",EKHON TV
 #EXTVLCOPT:network-caching=1000
@@ -11,7 +11,7 @@ http://38.96.178.201/live/Ekattor/index.m3u8
 https://youtu.be/gsFt1LjLQ-k
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1TLGtM2fobzP4jzfzQtd1-cSzKdfbPII8/view?usp=sharing",DBC NEWS
 https://m.xigzo.store/yt/live.php?video_id=A7wWbGru15I
-#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1Y44-bZUn8YZNbBvDxZRbqUlbCJiW33uN/view?usp=sharing",CHANNEL 24
+#EXTINF:-5 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="BANGLA",Channel 24
 https://m.xigzo.store/yt/live.php?video_id=HjZ48tDFjZU
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1IcgaOlxyC3rsA-UBU3oD0gFKBXvLSJS1/view?usp=sharing",JAMUNA TV
 #EXTVLCOPT:network-caching=1000
@@ -21,7 +21,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-vid
 http://38.96.178.201/live/NTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1nujUo2Fw-5axQLvUh96CB9a2PgQbuwAx/view?usp=sharing",Rtv
 https://m.xigzo.store/yt/live.php?video_id=XUAIgekl89k
-#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1Xjm8B7WJ7FMKP4J8xucvvRcd_xlfii9H/view?usp=sharing",SOMOY TV
+#EXTINF:-4 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV
 https://youtu.be/ssieXqdIxAI
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1KrDAUltdGZ9WvvzbJSWWUfFhk4BFyjkX/view?usp=sharing",NexusTV
 #EXTVLCOPT:network-caching=1000
