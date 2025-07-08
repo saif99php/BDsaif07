@@ -4,7 +4,8 @@ https://m.xigzo.store/yt/live.php?video_id=wuUhC6jfqrY
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1EEivILJg1RmmIWNlm5mH4FJYXVB3rbIw/view?usp=sharing",EKHON TV
 https://m.xigzo.store/yt/live.php?video_id=0-sJAZCFlVI
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1boPS8IEdGhAWJ5S3MruChUekD2eJsyfC/view?usp=sharing",EKATTOR TV
-https://m.xigzo.store/yt/live.php?video_id=Byw9GNvDz8A
+#EXTVLCOPT:network-caching=1000
+http://38.96.178.201/live/Ekattor/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1tehCFRmSjuIh5Y54hrc6KCBoe6gfbfkS/view?usp=sharing",DESH TV
 https://youtu.be/gsFt1LjLQ-k
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1TLGtM2fobzP4jzfzQtd1-cSzKdfbPII8/view?usp=sharing",DBC NEWS
