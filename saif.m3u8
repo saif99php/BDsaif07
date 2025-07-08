@@ -23,10 +23,10 @@ http://38.96.178.201/live/NTV/index.m3u8
 https://m.xigzo.store/yt/live.php?video_id=XUAIgekl89k
 #EXTINF:-4 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV
 https://youtu.be/ssieXqdIxAI
-#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1KrDAUltdGZ9WvvzbJSWWUfFhk4BFyjkX/view?usp=sharing",NexusTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png"group-title="BANGLA",Nexus TV HD
 #EXTVLCOPT:network-caching=1000
 http://38.96.178.201/live/NexusTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1FKlCUXO-ad_jcoq5yXjnfAbfR_BYStqc/view?usp=sharing",SATV
+#EXTINF:-31 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" group-title="BANGLA",SATV
 #EXTVLCOPT:network-caching=1000
 https://tvsen6.aynaott.com/satv/index.m3u8?e=1750361476&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=ebf16a37c3342a59e9149ea2290732a0
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1wCyfZ_oLLp36Y93o2GlLrZsq9ZNfpjKC/view?usp=sharing",TBN24
@@ -40,7 +40,7 @@ https://m.xigzo.store/yt/live.php?video_id=6cb2EvWXFOg
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/17eK3Xm4YMZDJ-XY-Cwu22iZYj5IojqQ7/view?usp=sharing",Deepto tv
 #EXTVLCOPT:network-caching=1000
 https:\\byphdgllyk.gpcdn.net\hls\deeptotv\0_1\index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1QxP8ToI6uRhgBo29vvAlcThkhGofpkSm/view?usp=sharing",Ekushe Etv
+#EXTINF:-16 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="BANGLA",Ekushey TV
 #EXTVLCOPT:network-caching=1000
 http:\\210.4.72.204\hls-live\livepkgr\_definst_\liveevent\livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1Hddf16BvGz6c5L4hIHfRm1LlPUdV9ml0/view?usp=sharing",Gazi Tv HD
@@ -48,7 +48,7 @@ http:\\210.4.72.204\hls-live\livepkgr\_definst_\liveevent\livestream3.m3u8
 http://38.96.178.201/live/GaziTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1UQMKPN6e4PxxLcZ_-U1t2mijm_HuuQMB/view?usp=sharing",MAASRANGA-TV
 https:\\mtv.sunplex.live\MAASRANGA-TV\index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1y5u3HAuNcif_SGydt_oq58Aq3hH0Kxxa/view?usp=sharing",MY TV
+#EXTINF:-32 tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png" group-title="BANGLA",MY TV HD
 #EXTVLCOPT:network-caching=1000
 https://mytvbangla.com/0.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/15qYy6t9CMEsBNEjXehE4c6ytoSP9F9b2/view?usp=sharing",TSports
@@ -61,7 +61,7 @@ http://38.96.178.201/live/TSports/tracks-v1a1/mono.m3u8
 #EXTINF:-12 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png"group-title="BANGLA",ATN Bangla
 #EXTVLCOPT:network-caching=1000
 http://38.96.178.201/live/ATNBangla/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1UETChZNp7ExENeLGSUUnOBnRoHwQ2be_/view?usp=sharing",BijoyTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png"group-title="BANGLA",Bijoy tv
 #EXTVLCOPT:network-caching=1000
 http://38.96.178.201/live/BijoyTV/index.m3u8
 #EXTINF:-13 tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="BANGLA",Banglavision
@@ -76,21 +76,19 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1LeW96GmUkCpUlMTtCeYLiSCOLOt1zuc5/view?usp=sharing",Asian TV
 #EXTVLCOPT:network-caching=1000
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Kids", Duronto TV
+#http://cdn01.palki.tv/live/Duronto-M/index.m3u8
 #EXTINF:-2 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV
 #http://xtv.ooo:8080/213112/213112/245930
 http://38.96.178.201/live/BTV/index.m3u8
-
 #EXTINF:-2 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV World
 #http://xtv.ooo:8080/213112/213112/245908
 http://103.230.105.252:1935/live/btv/manifest.m3u8
-
 #EXTINF:-2 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV News
 #http://xtv.ooo:8080/danyear12/am809100/245922
 #http://xtv.ooo:8080/213112/213112/245911
 #http://xott.live:8080/17871787/17871787/245911
-http://xtv.ooo:8080/live/03353290992/03353290992/245911.ts
+
 
 #EXTINF:-2 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA", Sangshod tv
 
