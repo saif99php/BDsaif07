@@ -27,8 +27,10 @@ https://youtu.be/ssieXqdIxAI
 #EXTVLCOPT:network-caching=1000
 http://38.96.178.201/live/NexusTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1FKlCUXO-ad_jcoq5yXjnfAbfR_BYStqc/view?usp=sharing",SATV
+#EXTVLCOPT:network-caching=1000
 http:\\38.96.178.201\live\SATV\index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1wCyfZ_oLLp36Y93o2GlLrZsq9ZNfpjKC/view?usp=sharing",TBN24
+#EXTVLCOPT:network-caching=1000
 http:\\cdn01.palki.tv\live\TBN24-M\index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1PbuT1Z56NnVmA94cGKd691aYkVxl_L1H/view?usp=sharing",Channel 9
 #EXTVLCOPT:network-caching=1000
@@ -36,8 +38,10 @@ http://38.96.178.201/live/Channel9/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1D8mdEqtRIJGGtCJRY8MlHOEFSSc2RAya/view?usp=sharing",Channel I
 https://m.xigzo.store/yt/live.php?video_id=6cb2EvWXFOg
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/17eK3Xm4YMZDJ-XY-Cwu22iZYj5IojqQ7/view?usp=sharing",Deepto tv
+#EXTVLCOPT:network-caching=1000
 https:\\byphdgllyk.gpcdn.net\hls\deeptotv\0_1\index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1QxP8ToI6uRhgBo29vvAlcThkhGofpkSm/view?usp=sharing",Ekushe Etv
+#EXTVLCOPT:network-caching=1000
 http:\\210.4.72.204\hls-live\livepkgr\_definst_\liveevent\livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1Hddf16BvGz6c5L4hIHfRm1LlPUdV9ml0/view?usp=sharing",Gazi Tv HD
 #EXTVLCOPT:network-caching=1000
@@ -61,6 +65,7 @@ http://38.96.178.201/live/ATNBangla/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://38.96.178.201/live/BijoyTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1Nl6Lt6UT3g9Nfx2lrMnV1oXPvwTnpXZX/view?usp=sharing",Bangla Vision
+#EXTVLCOPT:network-caching=1000
 http:\\38.96.178.201\live\BanglaVision\index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1A5ar2f-Q27yHOPEnvFC_pkiRe3Bk3DFb/view?usp=sharing",NEWS 24 HD
 #EXTVLCOPT:network-caching=1000
