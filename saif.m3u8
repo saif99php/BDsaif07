@@ -28,7 +28,7 @@ https://youtu.be/ssieXqdIxAI
 http://38.96.178.201/live/NexusTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1FKlCUXO-ad_jcoq5yXjnfAbfR_BYStqc/view?usp=sharing",SATV
 #EXTVLCOPT:network-caching=1000
-http:\\38.96.178.201\live\SATV\index.m3u8
+https://tvsen6.aynaott.com/satv/index.m3u8?e=1750361476&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=ebf16a37c3342a59e9149ea2290732a0
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1wCyfZ_oLLp36Y93o2GlLrZsq9ZNfpjKC/view?usp=sharing",TBN24
 #EXTVLCOPT:network-caching=1000
 http:\\cdn01.palki.tv\live\TBN24-M\index.m3u8
