@@ -45,7 +45,7 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTVLCOPT:network-caching=1000
 http://38.96.178.201/live/GaziTV/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/g4jPX7R/20240826-230429.png" ,MAASRANGA TV HD
-https:\\mtv.sunplex.live\MAASRANGA-TV\index.m3u8
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-32 tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png" group-title="BANGLA",MY TV HD
 #EXTVLCOPT:network-caching=1000
 https://mytvbangla.com/0.m3u8
