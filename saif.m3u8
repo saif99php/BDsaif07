@@ -35,7 +35,7 @@ http:\\cdn01.palki.tv\live\TBN24-M\index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xgfM1sf/2021-06-14-fff22-19-07.jpg" group-title="BANGLA",Channel 9
 #EXTVLCOPT:network-caching=1000
 http://38.96.178.201/live/Channel9/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPPcgLCX/Channel-I.png" group-title="News",9.CHANNEL I
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPPcgLCX/Channel-I.png",CHANNEL I
 https://m.xigzo.store/yt/live.php?video_id=6cb2EvWXFOg
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="BANGLA",Deepto TV
 #EXTVLCOPT:network-caching=1000
