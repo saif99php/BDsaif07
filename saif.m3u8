@@ -45,7 +45,7 @@ http:\\210.4.72.204\hls-live\livepkgr\_definst_\liveevent\livestream3.m3u8
 #EXTINF:-21 tvg-logo="https://i.postimg.cc/WbXMkxBF/gtv-2.png" group-title="SPORTS", GAZI TV
 #EXTVLCOPT:network-caching=1000
 http://38.96.178.201/live/GaziTV/index.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga Tv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDvTm5xc/Maasranga.png" group-title="News",18.MAASRANGA TV
 https:\\mtv.sunplex.live\MAASRANGA-TV\index.m3u8
 #EXTINF:-32 tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png" group-title="BANGLA",MY TV HD
 #EXTVLCOPT:network-caching=1000
@@ -62,7 +62,7 @@ http://38.96.178.201/live/TSports/tracks-v1a1/mono.m3u8
 http://38.96.178.201/live/ATNBangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wMgDBrT2/ATN-News.png" group-title="News",4.ATN NEWS
 http://103.175.242.10:8080/atnnews/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png"group-title="BANGLA",Bijoy tv
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/cedb767c-a1df-4c51-b159-684bc77f03aa_180x180_fbdee68d-a9aa-4cd7-9302-7f30fca5158d.png" group-title="News",27.BIJOY TV
 #EXTVLCOPT:network-caching=1000
 http://38.96.178.201/live/BijoyTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5y8VKjyM/Bangla-Vision.png" group-title="News",10.BANGLA VISION
@@ -80,7 +80,7 @@ http://38.96.178.201/live/NEWS24/index.m3u8
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="BANGLA",Bangla TV
 #EXTVLCOPT:network-caching=1000
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/banglatvhd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/162-1620250_asian-tv-bd-logo-hd-png-download.png",Asian TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncXG94c4/Asian-TV.png" group-title="News",23.ASIAN TV
 #EXTVLCOPT:network-caching=1000
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Kids", Duronto TV
