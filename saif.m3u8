@@ -101,15 +101,11 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 https://cdn.streamcast.xyz/timetv/tracks-a1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6VCmHJDN33WZ7TPM3VYoXsrxEAMBD7vjKXw&usqp=CAU" group-title="Movie",25.MOVIE BANGLA
 http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Kids", Duronto TV
+#http://cdn01.palki.tv/live/Duronto-M/index.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LqQp9LH.jpg"group-title="BANGLA", Martri Vumi
-http://live.matribhumitv.com/matribhumi-sports/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="BANGLA",Deshi tv
-http://208.86.19.13:81/514.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="BANGLA",Amar Bangla
 #https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
