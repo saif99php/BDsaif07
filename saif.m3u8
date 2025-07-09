@@ -104,6 +104,9 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 #http://cdn01.palki.tv/live/Duronto-M/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://magicbanglatv.com/images/logo-170679715465bba8620786e.png" ,Magic Bangla TV
 https://jolshabd.com/live/mbanglatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="BANGLA",Banglavision
+http://38.96.178.201/live/BanglaVision/index.m3u8
+
 
 
 
