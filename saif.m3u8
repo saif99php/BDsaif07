@@ -40,7 +40,7 @@ https://m.xigzo.store/yt/live.php?video_id=6cb2EvWXFOg
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="BANGLA",Deepto TV
 #EXTVLCOPT:network-caching=1000
 https:\\byphdgllyk.gpcdn.net\hls\deeptotv\0_1\index.m3u8
-#EXTINF:-16 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="BANGLA",Ekushey TV
+#EXTINF:-16 tvg-logo="https://i.postimg.cc/HnZB11xs/Ekushey-TV.png",Ekushey TV
 #EXTVLCOPT:network-caching=1000
 http:\\210.4.72.204\hls-live\livepkgr\_definst_\liveevent\livestream3.m3u8
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS", GAZI TV
