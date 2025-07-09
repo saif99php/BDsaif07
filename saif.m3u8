@@ -67,7 +67,7 @@ http://103.175.242.10:8080/atnnews/index.m3u8
 http://38.96.178.201/live/BijoyTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5y8VKjyM/Bangla-Vision.png" group-title="News",10.BANGLA VISION
 #EXTVLCOPT:network-caching=1000
-http:\\38.96.178.201\live\BanglaVision\index.m3u8
+https://ayna-three.vercel.app/api/stream/21e75798-3b6a-4214-9d93-b3fecaa4e700.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QtVnxYM/images-1-2.png",Nagorik TV
 http://stvlive.net:8080/nagorik/index.m3u8
 #EXTINF:-34 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/1200px-Mohona_tv_Logo.svg.png" group-title="BANGLA",Mohona Tv
