@@ -4,7 +4,7 @@ https://m.xigzo.store/yt/live.php?video_id=wuUhC6jfqrY
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="BANGLA",Ekon tv
 #EXTVLCOPT:network-caching=1000
 http://38.96.178.201/live/EkhonTV/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",tvg-logo="http://103.175.242.10/assets/images/Ekattor%20TV1731435020.png",Ekattor TV
+#EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV-2
 #EXTVLCOPT:network-caching=1000
 http://38.96.178.201/live/Ekattor/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1tehCFRmSjuIh5Y54hrc6KCBoe6gfbfkS/view?usp=sharing",DESH TV
