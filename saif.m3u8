@@ -40,7 +40,6 @@ https://m.xigzo.store/yt/live.php?video_id=6cb2EvWXFOg
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh8rc7Dn/Deepto-TV-HD.png",DIPTO TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-16 tvg-logo="https://i.postimg.cc/HnZB11xs/Ekushey-TV.png",Ekushey TV
-#EXTVLCOPT:network-caching=1000
 http:\\210.4.72.204\hls-live\livepkgr\_definst_\liveevent\livestream3.m3u8
 #EXTINF:-21 tvg-logo="https://i.postimg.cc/WbXMkxBF/gtv-2.png" group-title="SPORTS", GAZI TV
 #EXTVLCOPT:network-caching=1000
