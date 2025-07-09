@@ -58,7 +58,7 @@ http://38.96.178.201/live/TSports/index.m3u8
 http://116.204.149.16/t_sports/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1920px-T_Sports_logo.svg.png",Tsports
 http://38.96.178.201/live/TSports/tracks-v1a1/mono.m3u8
-#EXTINF:-12 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png"group-title="BANGLA",ATN Bangla
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfXYJXPY/ATN-Bangla.png",ATN BANGLA
 #EXTVLCOPT:network-caching=1000
 http://38.96.178.201/live/ATNBangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wMgDBrT2/ATN-News.png" group-title="News",4.ATN NEWS
