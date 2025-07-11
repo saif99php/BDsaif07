@@ -168,7 +168,76 @@ https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 
 
 
-
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png",BTV HD
+http://38.96.178.201:80/live/BTV/index.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png",BTV
+http://103.230.105.252:1935/live/btv/manifest.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",T Sports
+https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
+#EXTINF:-1 ,#http://cdn01.palki.tv/live/MaasrangaTV-M/index.m3u8
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,#http://cdn01.palki.tv/live/EkusheyTV-M/index.m3u8
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg",Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png",Amar Digital
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/12282/logo/240x240/mobile_logo_671378001663674667.png",MOVIE BANGLA
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png",My Tv
+https://mytvbangla.com/0.m3u8
+#EXTINF:-1 ,#http://208.86.19.13:81/514.stream/index.m3u8
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://imgur.com/ofqGiiK",Kumilla tv
+https://jolshabd.com/live/mbanglatv/playlist.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",IB TV USA
+http://208.86.19.13:81/509.stream/index.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/10/iontvuk.jpg",iON TV Bangla
+https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.imgur.com/gTnzXlx.png",Me Tv
+https://iptvbd.live/metv1080/1080.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://timetvusa.com/wp-content/uploads/2022/07/ttv-logo.png",Time Televison
+https://cdn.streamcast.xyz/timetv/tracks-a1/index.fmp4.m3u8
+#EXTINF:-1 ,#https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
+http://kst.moonplex.net:8080/CH3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,#http://103.175.242.10:8080/23-ZeeBangla/tracks-v1a1/mono.m3u8
+http://kst.moonplex.net:8080/CH4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,#http://tv.cloudcdn.me/live.ts?channelId=92&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
+https://iptvcable.netlify.app/Altogether-007/Kolkata/ColorsBanglaHD.m3u8
+#EXTINF:-1 group-title="Kolkata Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg",Enter 10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 group-title="Kolkata Bangla",Tara Bangla Cinema
+http://103.145.48.150:90/laosat24/taratv/index.m3u8
+#EXTINF:-1 group-title="Kolkata Bangla",Bangla +
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF:-1 group-title="Kolkata Bangla" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",Sananda tv
+https://live.sanonda.tv/sanonda/index.m3u8
+#EXTINF:-1 group-title="Kolkata Bangla" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/news18-bangla-news.png",News18 Bangla News
+https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="Kolkata Bangla" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/tv9-bangla.png",TV9 Bangla
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-bangla/main.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/Zk5Ss25.png",Dora TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fb6c84dd37df3b4290c5&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=985&terminate=false&userId=
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ciTJrnl.png",ZooMoo
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="Kids",BRAT TV
+https://brat-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/yBYRgLt/20240813-063955.png",RONGEEN TV
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Kids",Kids TV
+https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png",NICK JR
+https://dai.google.com/linear/hls/event/0HWMZ7VTTAi8C7Y35fcbgQ/master.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png",NICKTOONS
+http://143.244.60.30/NICKTOONS/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png",ZOOMOO (KIDS)
+https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png",ZOOMOO
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/130.jpg",ZOO MOO ASIA
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/KT4tdQs.png",Nick Jr. East (720p)
+https://fl5.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:-1 tvg-id="0-9-zeebangla" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebangla/channel_list/1170x658310781121.png" group-title="Entertainment", Zee Bangla HD
 https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 
