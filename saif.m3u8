@@ -168,7 +168,78 @@ https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 
 
 
-#EXTM3U
+
+#EXTINF:-1 tvg-id="0-9-zeebangla" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebangla/channel_list/1170x658310781121.png" group-title="Entertainment", Zee Bangla HD
+https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
+
+#EXTINF:-1 tvg-id="Sony.yay.in" tvg-name="Sony Yay Bangla" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-132-j5fpedbs-v4/imageContent-132-j5fpedbs-m6.png" group-title="Kids", Sony Yay Bangla
+https://dns.bajimath.com/candy/vstream.php?id=edf7ba617dc5&e=.m3u8
+
+#EXTINF:-1 group-title="Movie Channels" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png", SONY PIX HD VIP
+https://dns.bajimath.com/candy/vstream.php?id=65f4f4c8b5c9&e=.m3u8
+
+#EXTINF:-1 group-title="Movie Channels" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png", SONY MAX HD VIP
+https://dns.bajimath.com/candy/vstream.php?id=41559a92a8db&e=.m3u8
+
+#EXTINF:-1 tvg-id="0-9-9z5543514" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5543514/channel_list/1170x658withlogo7717294688b1c3f4d4c824099903d383846fa1b16.png" group-title="Movie", &Prive HD
+https://live.drmlive-02.workers.dev/zee/9z5543514.m3u8
+
+
+#EXTINF:-1 tvg-id="0-9-bigmagic_1786965389" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigmagic_1786965389/channel_list/1170x658withlog2022520414.png" group-title="Entertainment", Big Magic
+https://live.drmlive-02.workers.dev/zee/bigmagic_1786965389.m3u8
+#EXTINF:-1 tvg-id="0-9-zing" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zing/channel_list/1170x658withlogo596214b303fa477e9eb584d1814d1c4c.png" group-title="Music", Zing
+https://live.drmlive-02.workers.dev/zee/zing.m3u8
+#EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetvhd/channel_list/1170x658withlog1554775145.png" group-title="Entertainment", Zee TV HD
+https://live.drmlive-02.workers.dev/zee/zeetvhd.m3u8
+#EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_list/1170x658withlogo378606665.png" group-title="Entertainment", &TV HD
+https://live.drmlive-02.workers.dev/zee/tvhd_0.m3u8
+
+
+#EXTINF:-1 tvg-id="0-9-zeecafehd" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecafehd/channel_list/1170x658withlogo325698699.png" group-title="Entertainment", Zee Cafe HD
+https://live.drmlive-02.workers.dev/zee/zeecafehd.m3u8
+#EXTINF:-1 tvg-id="0-9-bigganga" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigganga/channel_list/1170x65802779b8c9ffb451b8e8aea2958c9b3ff.png" group-title="Movie", Zee Anmol Cinema 2
+https://live.drmlive-02.workers.dev/zee/bigganga.m3u8
+
+
+
+#EXTINF:-1 tvg-id="0-9-zeeanmol" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmol/channel_list/1170x658withlog1844143347.png" group-title="Entertainment", Zee Anmol
+https://live.drmlive-02.workers.dev/zee/zeeanmol.m3u8
+#EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_list/1170x658withlogo9430ec08479b47f0a19c0283cd9495a7.png" group-title="Movie", Zee Cinema HD
+https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8
+#EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_list/1170x658withlog1476130363.png" group-title="Movie", &Pictures HD
+https://live.drmlive-02.workers.dev/zee/tvpictureshd.m3u8
+#EXTINF:-1 tvg-id="0-9-zeetalkies" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetalkies/channel_list/1170x658483062857.png" group-title="Movie", Zee Talkies HD
+https://live.drmlive-02.workers.dev/zee/zeetalkies.m3u8
+#EXTINF:-1 tvg-id="0-9-zeebanglacinema" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebanglacinema/channel_list/1170x658withlog1238879598.png" group-title="Movie", Zee Bangla Cinema
+https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
+#EXTINF:-1 tvg-id="0-9-zeeanmolcinema" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmolcinema/channel_list/1170x658withlog1721007595.png" group-title="Movie", Zee Anmol Cinema
+https://live.drmlive-02.workers.dev/zee/zeeanmolcinema.m3u8
+#EXTINF:-1 tvg-id="0-9-zeeclassic" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeclassic/channel_list/1170x658withlogo9806c31f295c43429c966219ea84fb6b.png" group-title="Movie", Zee Bollywood
+https://live.drmlive-02.workers.dev/zee/zeeclassic.m3u8
+#EXTINF:-1 tvg-id="0-9-pictures" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-pictures/channel_list/1170x658withlog1269578414.png" group-title="Movie", &Pictures
+https://live.drmlive-02.workers.dev/zee/pictures.m3u8
+#EXTINF:-1 tvg-id="0-9-zeecinema" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinema/channel_list/1170x658withlogocac7810d94c848dba02ed5ab44341a78.png" group-title="Movie", Zee Cinema
+https://live.drmlive-02.workers.dev/zee/zeecinema.m3u8
+#EXTINF:-1 tvg-id="0-9-zeeaction" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeaction/channel_list/1170x658withlog1953200347.png" group-title="Movie", Zee Action
+https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
+#EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_list/1170x658379547401.png" group-title="Movie", &flix HD
+https://live.drmlive-02.workers.dev/zee/channel_2105335046.m3u8
+#EXTINF:-1 tvg-id="0-9-zeetv" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetv/channel_list/1170x658withlogob3ded26b5724474a92c53277b074fe5f.png" group-title="Entertainment", Zee TV
+https://live.drmlive-02.workers.dev/zee/zeetv.m3u8
+
+
+
+#EXTINF:-1 tvg-id="0-9-176" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-176/channel_list/1170x658d4d3573a17f24dcdb86c0da75e7208e8.png" group-title="Movie", Zee Classic
+https://live.drmlive-02.workers.dev/zee/176.m3u8
+#EXTINF:-1 tvg-id="0-9-209" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-209/channel_list/1170x658withlogo358457080.png" group-title="Movie", &xplorHD
+https://live.drmlive-02.workers.dev/zee/209.m3u8
+#EXTINF:-1 tvg-id="0-9-216" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-216/channel_list/1170x658withlogo20909261.png" group-title="Movie", Zee Biskope
+https://live.drmlive-02.workers.dev/zee/216.m3u8
+#EXTINF:-1 tvg-id="0-9-348" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-348/channel_list/1170x658withlog2096037619.png" group-title="Lifestyle", Zee Zest HD
+https://live.drmlive-02.workers.dev/zee/348.m3u8
+
+#EXTINF:-1 tvg-id="0-9-9z5383484" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5383484/channel_list/1170x6587bc331e21a16450c853bffefb8844e21.png" group-title="Entertainment", Zee Bangla
+https://live.drmlive-02.workers.dev/zee/9z5383484.m3u8
 #EXTINF:20,T Sports HD
 http://38.96.178.201/live/TSports/index.m3u8
 #EXTINF:0,T Sports HD
