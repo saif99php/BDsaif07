@@ -4,8 +4,7 @@ https://tvsen6.aynaott.com/independenttv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/ekhontv.jpg?x67896" group-title="News",29.EKHON TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV
-#EXTVLCOPT:network-caching=1000
-http://38.96.178.201/live/Ekattor/index.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/playlist.m3u8
 #EXTINF:-31 tvg-logo="https://i.postimg.cc/V60v1jDy/Desh-TV-Live.png" group-title="BANGLA",Desh TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/15JCh6T5/DBC-News.png" group-title="News",15.DBC NEWS HD
