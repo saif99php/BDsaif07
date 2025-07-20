@@ -1,4 +1,41 @@
 #EXTM3U
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtYP7MNr/DEEPTO-TV-HD.png",Deepto TV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkVp4cLg/BANGLA-VISION-HD.png",Bangla Vision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5pPDBLg/BTV-HD.png",BTV-HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTHYfBwG/NTV.png",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qRXktj5/ATN-BANGLA-HD.png",ATN Bangla
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8c88Bxp8/CHANNEL-I-HD.png",CHANNEL-I-HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nVKSPXT9/JAMUNA-TV.png",JAMUNA-TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RCn46LS5/ATN-NEWS-HD.png",ATN-NEWS-HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QKRS9qd/CHANNEL-24-HD.png",CHANNEL-24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5C2C1rD/EKATTOR-TV-HD.png",EKATTOR-TV-HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4dV2ZygM/INDEPENDENT-TV.png",INDEPENDENT-TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Yq9Nz0PH/SOMOY-TV-HD.png",SOMOY-TV-HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+
 #EXTINF:-6 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="BANGLA",INDEPENDENT TV
 https://tvsen6.aynaott.com/independenttv/tracks-v1a1/mono.ts.m3u8
 
