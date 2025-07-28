@@ -151,6 +151,8 @@ https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Zn70YRv/Ten-Sports-HD.png",Ten Sports HD
 https:\\edge3-moblive.yuppcdn.net\drm\smil:tencricketdrm.smil\chunklist_b996000.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sf68z3fJ/PTV.png",PTV
+https://maxplay-tv.fun/cric.m3u8?id=ptvpk
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6pQFJDwZ/ATN-BANGLA-HD.png",ATN Bangla
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8
@@ -275,7 +277,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJrXXVF0/Colors-bangla-hd.png",Colors bangla hd
-https:\\catchup.yuppcdn.net:443\amazonv2\36\preview\colorsbanglahd\master\chunklist.m3u8
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/Gm5hTWjP/R-Plus-News.png",R Plus News
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
