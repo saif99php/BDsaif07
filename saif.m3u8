@@ -87,7 +87,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7ByHvBB/SA-TV.png",SATV
 #EXTVLCOPT:network-caching=1000
-https://tvsen6.aynaott.com/satv/index.m3u8?e=1750361476&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=ebf16a37c3342a59e9149ea2290732a0
+https:\\tvsen6.aynaott.com\satv\tracks-v1a1\mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rFfYJQWw/CHANNEL-9-HD.png",CHANNEL-9-HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8
@@ -264,6 +264,9 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3JL3zszM/TV-9-Bangla.png",TV-9-Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JL3zszM/TV-9-Bangla.png",TV-9-Bangla
+https:\\d35j504z0x2vu2.cloudfront.net\v1\master\0bc8e8376bd8417a1b6761138aa41c26c7309312\tv9-bangla\main.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8ChBYm1/ANANDA-TV.png",ANANDA-TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
 
@@ -291,6 +294,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 http://15.235.185.236/hls/bhi.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/WbvrYkgF/News-18-Bangla.png",News 18 Bangla
+https:\\amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv\playlist\amg01448-samsungin-news18bangla-samsungin\playlist.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg",ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
