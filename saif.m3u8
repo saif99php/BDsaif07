@@ -343,6 +343,8 @@ https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/mrPkdLr6/Amr-Bangla.png",Amar Bangla Digital
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R01ZjMPk/Zee-24-Ghanta.png",Zee 24 Ghanta
+https://live.dinesh29.com.np/stream/jiotv/zee24ghanta/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d1Ms4GpL/Enter10-Bangla.png",Enter10-Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
