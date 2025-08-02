@@ -307,10 +307,10 @@ http://15.235.185.236/hls/bhi.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/WbvrYkgF/News-18-Bangla.png",News 18 Bangla
 https:\\amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv\playlist\amg01448-samsungin-news18bangla-samsungin\playlist.m3u8
 
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg",ZB Cinema
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/9F51ssPG/ZB-Cinema.png",ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg",ZB News
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/TPmzvnLw/ZB-News.png",ZB News
 https://server.zillarbarta.com/zillarbarta/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fWcLqgwZ/Bangla-Plus.png",Bangla-Plus
