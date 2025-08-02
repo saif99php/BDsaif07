@@ -370,7 +370,7 @@ https://tvsen6.aynaott.com/anandatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yYnNsggb/Bhi-Channel.png",Bhi-Channel
 http://15.235.185.236/hls/bhi.m3u8
 
-EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/WbvrYkgF/News-18-Bangla.png",News 18 Bangla
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbvrYkgF/News-18-Bangla.png",News 18 Bangla
 https://live.dinesh29.com.np/stream/jiotv/news18banglanews/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WbJjBNz5/NK-TV-Bangla.png",NK TV Bangla
