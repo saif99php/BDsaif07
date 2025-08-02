@@ -305,6 +305,9 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x84MkJJn/Millenium-TV.png",Millenium TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/millenniumtv-odr-up2.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x84MkJJn/Millenium-TV.png",Millenium TV
+https://tvsen7.aynaott.com/millenniumtv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RhyJSky0/news21.png",News21
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news21bd.stream/tracks-v1a1/mono.m3u8
 
@@ -403,5 +406,13 @@ https://dai.google.com/linear/hls/event/biQJgf06SJCitj-nd502ow/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8xBF28t/Discovery.png",Discovery Bangla
 https://tvsen6.aynaott.com/discovery_hd_bangla/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5mr378d/Shemaroo-TV.png",ShemarooTV
+https://tvsen6.aynaott.com/ShemarooTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv3P1QSj/B4-U-Movies.png",B4U Movies
+https://tvsen7.aynaott.com/B4U_Movies_India/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rpPPycRm/B4u-Music.png",B4u Music
+https://tvsen6.aynaott.com/b4umusic/index.m3u8
 
 
