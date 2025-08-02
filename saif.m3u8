@@ -182,6 +182,10 @@ https:\\edge3-moblive.yuppcdn.net\drm\smil:tencricketdrm.smil\chunklist_b996000.
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sf68z3fJ/PTV.png",PTV
 https://maxplay-tv.fun/cric.m3u8?id=ptvpk
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Vk69fhyZ/Star-Sports-2-Hindi.png",Star Sports 2 Hindi
+https://live.dinesh29.com.np/stream/jiotv/starsports2hindi/master.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nrPwGGSW-/A-Sports.png",A sports
 https://tvsen7.aynaott.com/asports-bkp/index.m3u8
 
