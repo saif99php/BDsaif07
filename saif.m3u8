@@ -262,6 +262,22 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j5TXK7N1/DURONTO-TV.png",DURONTO-TV
 #http://cdn01.palki.tv/live/Duronto-M/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQB6CPgh/CN.png",Cartoon Network
+https://tvsen5.aynaott.com/cartoonnetwork/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3LVXMpT/PBS-Kids.png",PBS Kids
+https://tvsen7.aynaott.com/pbskids/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv2HvWhh/Disney-JR.png",Disney JR
+https://tvsen7.aynaott.com/disneyjr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqWCSGL0/Nicktoons.png",Nicktoons
+https://tvsen5.aynaott.com/nicktoons/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wbh2ppyR/Nick-jr.png",Nick jr
+https://tvsen5.aynaott.com/nickjr/index.fmp4.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtSp3njB/MAGIC-BANGLA-TV.png",MAGIC-BANGLA-TV
 https://jolshabd.com/live/mbanglatv/playlist.m3u8
 
