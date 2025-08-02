@@ -156,8 +156,6 @@ https://tvsen6.aynaott.com/bijoytv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j5TXK7N1/DURONTO-TV.png",DURONTO-TV
 https://tvsen6.aynaott.com/durontotv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fRZYg94q/DISCOVERY-KIDS.png",Discovery Kids
-https:\\live20.bozztv.com\giatvplayout7\giatv-209633\index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/cLmfqL0x/Nick.png",Nick
 http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
@@ -176,9 +174,6 @@ http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D08x0bfP/T-Sports.png",T-Sports
 https://tvsen5.aynaott.com/tsports/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Zn70YRv/Ten-Sports-HD.png",Ten Sports HD
-https:\\edge3-moblive.yuppcdn.net\drm\smil:tencricketdrm.smil\chunklist_b996000.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sf68z3fJ/PTV.png",PTV
 https://maxplay-tv.fun/cric.m3u8?id=ptvpk
 
@@ -189,11 +184,6 @@ https://live.dinesh29.com.np/stream/jiotv/starsports2hindi/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nrPwGGSW-/A-Sports.png",A sports
 https://tvsen7.aynaott.com/asports-bkp/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdD1dBLY/Sky-Football.png",Sky-Football
-http:\\rhsbjv7k.tvclub.xyz\iptv\FAGK589PV9BQAG\7336\index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdD1dBLY/Sky-Football.png",Sky-Football
-http:\\rhsbjv7k.tvclub.xyz\iptv\FAGK589PV9BQAG\7335\index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sf68z3fJ/PTV.png",PTV
 http://175.107.244.52:4457/play/a08g/index.m3u8
@@ -352,8 +342,6 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3JL3zszM/TV-9-Bangla.png",TV-9-Bangla
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-bangla/main.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JL3zszM/TV-9-Bangla.png",TV-9-Bangla
-https:\\d35j504z0x2vu2.cloudfront.net\v1\master\0bc8e8376bd8417a1b6761138aa41c26c7309312\tv9-bangla\main.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8ChBYm1/ANANDA-TV.png",ANANDA-TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
@@ -381,9 +369,6 @@ https://tvsen6.aynaott.com/anandatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yYnNsggb/Bhi-Channel.png",Bhi-Channel
 http://15.235.185.236/hls/bhi.m3u8
-
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/WbvrYkgF/News-18-Bangla.png",News 18 Bangla
-https:\\amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv\playlist\amg01448-samsungin-news18bangla-samsungin\playlist.m3u8
 
 EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/WbvrYkgF/News-18-Bangla.png",News 18 Bangla
 https://live.dinesh29.com.np/stream/jiotv/news18banglanews/master.m3u8
