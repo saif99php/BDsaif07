@@ -130,6 +130,14 @@ https://tvsen7.aynaott.com/B4U_Movies_India/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpPPycRm/B4u-Music.png",B4u Music
 https://tvsen6.aynaott.com/b4umusic/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J081y8DN/9xm.png",9XM
+https://tvsen6.aynaott.com/9xm/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLWtwqYL/Mastiii-Music.png",Mastiii Music
+https://tvsen6.aynaott.com/mastimusic/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRyDLMx9/DEEPTO-TV-HD.png",Deepto TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 
