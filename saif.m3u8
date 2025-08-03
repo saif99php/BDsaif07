@@ -176,6 +176,23 @@ http://182.176.185.207:7500/play/a06z/index.m3u8
 http://182.176.185.207:7500/play/a07p/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJrXXVF0/Colors-bangla-hd.png",Colors Bengali HD
+https://live.dinesh29.com.np/stream/jiotv/colorsbengalihd/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qd2vNbW5/zee-24-ghanta.png",Zee 24 Ghanta
+https://live.dinesh29.com.np/stream/jiotv/zee24ghanta/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JL3zszM/TV-9-Bangla.png",TV-9-Bangla
+https://live.dinesh29.com.np/stream/jiotv/tv9bangla/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZBZBY5H/colors-bangla.png",Colors Bangla Cinema
+https://live.dinesh29.com.np/stream/jiotv/colorsbanglacinema/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZ9j2N0j/olors-cineplex-copy.png",Colors Cineplex HD
+https://live.dinesh29.com.np/stream/jiotv/colorscineplexhd/master.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRyDLMx9/DEEPTO-TV-HD.png",Deepto TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 
