@@ -88,6 +88,9 @@ https://tvsen6.aynaott.com/news24/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Pqg7DJDb/Asian-TV.png",Asian-TV
 https://tvsen6.aynaott.com/asiantv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4jtZ6yK/PEACE-TV.png",Peace TV Bangla HD
+https://tvsen7.aynaott.com/PeaceTvBanglaHD/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SQB6CPgh/CN.png",Cartoon Network
 https://tvsen5.aynaott.com/cartoonnetwork/index.fmp4.m3u8
 
@@ -135,6 +138,11 @@ https://tvsen6.aynaott.com/9xm/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cLWtwqYL/Mastiii-Music.png",Mastiii Music
 https://tvsen6.aynaott.com/mastimusic/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjgdJBC4/Dhinchaak.png",Dhinchaak
+https://tvsen6.aynaott.com/Dhinchaak/index.m3u8
+
+
 
 
 
