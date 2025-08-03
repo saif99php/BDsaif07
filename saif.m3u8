@@ -192,6 +192,9 @@ https://live.dinesh29.com.np/stream/jiotv/colorsbanglacinema/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vZ9j2N0j/olors-cineplex-copy.png",Colors Cineplex HD
 https://live.dinesh29.com.np/stream/jiotv/colorscineplexhd/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTDhVkrs/NICK-BANGLA.png",Nick bangla
+https://live.dinesh29.com.np/stream/jiotv/nickbangla/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRyDLMx9/DEEPTO-TV-HD.png",Deepto TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
