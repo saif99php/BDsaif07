@@ -157,6 +157,11 @@ https://tvsen5.aynaott.com/R_Bangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vBC40Tq5/Sangeet-Bangla.png",Sangeet Bangla
 https://tvsen6.aynaott.com/SangeetBangla/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PkCLxb1/Prive-HD.png",&Prive HD
+http://182.176.185.207:7500/play/a077/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvBmZK1f/pictures-HD.png",&pictures HD
+http://182.176.185.207:7500/play/a06q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRyDLMx9/DEEPTO-TV-HD.png",Deepto TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
