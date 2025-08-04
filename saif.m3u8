@@ -124,13 +124,13 @@ https://tvsen6.aynaott.com/anandatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8xBF28t/Discovery.png",Discovery Bangla
 https://tvsen6.aynaott.com/discovery_hd_bangla/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5mr378d/Shemaroo-TV.png",ShemarooTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZhqJm6W/shemaroo.png",ShemarooTV
 https://tvsen6.aynaott.com/ShemarooTV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv3P1QSj/B4-U-Movies.png",B4U Movies
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMNJ02zf/b4u-movies.png",B4U Movies
 https://tvsen7.aynaott.com/B4U_Movies_India/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rpPPycRm/B4u-Music.png",B4u Music
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFxQmnmW/B4u-music.png",B4u Music
 https://tvsen6.aynaott.com/b4umusic/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J081y8DN/9xm.png",9XM
@@ -273,7 +273,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8VpXj0X/CHANNEL-I-HD.png",CHANNEL-I-HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkV7xGKH/EKUSHEY-TV-HD.png",EKUSHEY-TV-HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SxwdT5Kk/EKUSHEY-TV-HD.png",EKUSHEY-TV-HD
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85bbCzmz/GAZI-TV-HD.png",GAZI-TV-HD
@@ -477,6 +477,6 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/in
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4vqD6Yk/Sonyliv.png",SONY LIV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7L66sTxK/SonyLIV.png",SONY LIV
 https://dai.google.com/linear/hls/event/biQJgf06SJCitj-nd502ow/master.m3u8
 
