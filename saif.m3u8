@@ -169,6 +169,13 @@ http://182.176.185.207:7500/play/a07o/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Ysk40VM/sony-ten-2.png",SONY TEN 2 HD
 http://182.176.185.207:7500/play/a06z/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjpmCdBD/Astro-Football.png",Astro_Football
+https://looooooool.footfast.net/event/124.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4NK9hgTK/Astro-Grandstand.png",Astro_Grandstand
+https://looooooool.footfast.net/event/123.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQRkg0BH/STAR-GOLD.png",STAR GOLD HD
 http://182.176.185.207:7500/play/a07p/index.m3u8
 
@@ -176,6 +183,8 @@ http://182.176.185.207:7500/play/a07p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJrXXVF0/Colors-bangla-hd.png",Colors Bengali HD
 https://live.dinesh29.com.np/stream/jiotv/colorsbengalihd/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wJFSvMC/Sananda-TV.png",Sanonda TV
+https://live.sanonda.tv/sanonda/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qd2vNbW5/zee-24-ghanta.png",Zee 24 Ghanta
 https://live.dinesh29.com.np/stream/jiotv/zee24ghanta/master.m3u8
@@ -494,6 +503,9 @@ http://watchindia.net:8880/live/54355/61270/1756.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Ysk40VM/sony-ten-2.png",Sony Ten 2
 http://watchindia.net:8880/live/54355/61270/1757.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Ysk40VM/sony-ten-2.png",Sony Ten 2
+http://182.176.185.207:7500/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrMf7qG8/sony-ten-5.png",Sony Ten 5
 http://watchindia.net:8880/live/54355/61270/2663.m3u8
