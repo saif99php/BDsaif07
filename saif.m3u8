@@ -335,6 +335,9 @@ https://live.dinesh29.com.np/stream/jiotv/starsports2hindi/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nrPwGGSW-/A-Sports.png",A sports
 https://tvsen7.aynaott.com/asports-bkp/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrPwGGSW-/A-Sports.png",A sports
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=asportshd
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SNSpfbQr/Star-Sports-1-HD.png",Star_Sports_1_HD
 https://tvsen6.aynaott.com/spsel1/index.m3u8
 
