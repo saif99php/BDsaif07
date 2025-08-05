@@ -179,6 +179,17 @@ https://looooooool.footfast.net/event/123.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQRkg0BH/STAR-GOLD.png",STAR GOLD HD
 http://182.176.185.207:7500/play/a07p/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXDJtztS/STAR-JALSHA.png",Star Jalsha
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxCmQd8M/Zee-Bangla-Cinema.png",Zee-Bangla-Cinema
+http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4yPXfqd9/JALSA-MOVIES.png",JALSHA MOVIES HD
+https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hvZ3kbBX/zee-cinema-hd.png",Zee Cinema HD
+http://smart.bengaldigital.live/ZeeCinema/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJrXXVF0/Colors-bangla-hd.png",Colors Bengali HD
 https://live.dinesh29.com.np/stream/jiotv/colorsbengalihd/master.m3u8
