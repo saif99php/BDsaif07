@@ -328,6 +328,35 @@ http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/Y91pVhB8/RONGEEN-TV.png",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJrXXVF0/Colors-bangla-hd.png",Colors Bengali HD
+https://live.dinesh29.com.np/stream/jiotv/colorsbengalihd/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GmHbRM14/SUN-BANGLA.png",Sun Bangla
+https://live.dinesh29.com.np/stream/jiotv/sunbangla/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGhV8jwD/Travelxp-HD-Hindi.png",Travelxp HD Hindi
+https://live.dinesh29.com.np/stream/jiotv/travelxphdhindi/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjYBtnZT/Republic-Bangla.png",R Bangla
+https://live.dinesh29.com.np/stream/jiotv/rbangla/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yYnNsggb/Bhi-Channel.png",BHI Channel
+https://live.dinesh29.com.np/stream/jiotv/bhichannel/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbJjBNz5/NK-TV-Bangla.png",NK TV Bangla
+https://live.dinesh29.com.np/stream/jiotv/nktvbangla/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPmzvnLw/ZB-News.png",Zillar Barta
+https://live.dinesh29.com.np/stream/jiotv/zillarbarta/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sg68v3jB/Discovery-Bangla.png",Discovery Bengali
+https://live.dinesh29.com.np/stream/jiotv/discoverybengali/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6q5D03W8/Animal-Planet.png",Animal Planet Hindi
+https://live.dinesh29.com.np/stream/jiotv/animalplanethindi/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZBY7vQJ/History-TV18-HD-Hindi.png",History TV18 HD Hindi
+https://live.dinesh29.com.np/stream/jiotv/historytv18hdhindi/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D08x0bfP/T-Sports.png",T-Sports
 #EXTVLCOPT:network-caching=1000
