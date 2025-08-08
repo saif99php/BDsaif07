@@ -184,6 +184,9 @@ https://live.dinesh29.com.np/stream/jiotv/eurosporthd/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hjgwTtst/star-sports-2.png",Star Sports 2 Hindi HD
 https://live.dinesh29.com.np/stream/jiotv/starsports2hindihd/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hjgwTtst/star-sports-2.png",Star Sports 2 Hindi HD
+http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1370.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mgv0z8yW/Star-Sports-Khel.png",Star Sports Khel
 https://live.dinesh29.com.np/stream/jiotv/starsportskhel/master.m3u8
 
@@ -208,6 +211,8 @@ http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VsKyNjgn/Nat-Geo.png",National Geographic HD
 https://live.dinesh29.com.np/stream/jiotvplus/nationalgeographichd/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGhV8jwD/Travelxp-HD-Hindi.png",Travel xp
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQRkg0BH/STAR-GOLD.png",STAR GOLD HD
 http://182.176.185.207:7500/play/a07p/index.m3u8
