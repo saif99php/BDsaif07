@@ -199,6 +199,16 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnHbv5BK/tnt.png",TNT Sports 3
 http://cool365.xyz:900/live/4160189881/DB4ACD54/401338313.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c1R0qD8z/Hum-TV.png",Hum TV
+http://app.hughag.store/api/4518a8c92f/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GmHbRM14/SUN-BANGLA.png",Sun Bangla
+http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VsKyNjgn/Nat-Geo.png",National Geographic HD
+https://live.dinesh29.com.np/stream/jiotvplus/nationalgeographichd/master.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQRkg0BH/STAR-GOLD.png",STAR GOLD HD
 http://182.176.185.207:7500/play/a07p/index.m3u8
 
