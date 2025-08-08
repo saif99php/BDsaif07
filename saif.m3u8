@@ -178,6 +178,20 @@ https://looooooool.footfast.net/event/124.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4NK9hgTK/Astro-Grandstand.png",Astro_Grandstand
 https://looooooool.footfast.net/event/123.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4dXMfdhW/EUROSPORT-HD.png",Eurosport HD
+https://live.dinesh29.com.np/stream/jiotv/eurosporthd/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hjgwTtst/star-sports-2.png",Star Sports 2 Hindi HD
+https://live.dinesh29.com.np/stream/jiotv/starsports2hindihd/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgv0z8yW/Star-Sports-Khel.png",Star Sports Khel
+https://live.dinesh29.com.np/stream/jiotv/starsportskhel/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJWF5NxH/Jio-Sports-HD.png",Jio Sports HD
+https://live.dinesh29.com.np/stream/jiotv/jiosportshd/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4dXMfdhW/EUROSPORT-HD.png",Eurosport
+https://live.dinesh29.com.np/stream/jiotv/eurosport/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQRkg0BH/STAR-GOLD.png",STAR GOLD HD
 http://182.176.185.207:7500/play/a07p/index.m3u8
