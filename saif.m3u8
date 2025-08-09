@@ -427,6 +427,25 @@ https://tvsen7.aynaott.com/tsn1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sf68z3fJ/PTV.png",PTV
 http://175.107.244.52:4457/play/a08g/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNSpfbQr/Star-Sports-1-HD.png",Star_Sports_1_HD
+http://watchindia.net:8880/live/54355/61270/2232.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/155QbJp3/sony-ten-1.png",Sony Ten 1
+http://watchindia.net:8880/live/54355/61270/1756.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Ysk40VM/sony-ten-2.png",Sony Ten 2
+http://watchindia.net:8880/live/54355/61270/1757.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Ysk40VM/sony-ten-2.png",Sony Ten 2
+http://182.176.185.207:7500/play/a06z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrMf7qG8/sony-ten-5.png",Sony Ten 5
+http://watchindia.net:8880/live/54355/61270/2663.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bdcgLhkR/Willow-HD-TV.png",Willow Cricket
+http://watchindia.net:8880/live/54355/61270/1067.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZR6MxmPG/BANGLA-VISION-HD.png",Bangla Vision
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8
 
@@ -590,20 +609,3 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7L66sTxK/SonyLIV.png",SONY LIV
 https://dai.google.com/linear/hls/event/biQJgf06SJCitj-nd502ow/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNSpfbQr/Star-Sports-1-HD.png",Star_Sports_1_HD
-http://watchindia.net:8880/live/54355/61270/2232.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/155QbJp3/sony-ten-1.png",Sony Ten 1
-http://watchindia.net:8880/live/54355/61270/1756.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Ysk40VM/sony-ten-2.png",Sony Ten 2
-http://watchindia.net:8880/live/54355/61270/1757.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Ysk40VM/sony-ten-2.png",Sony Ten 2
-http://182.176.185.207:7500/play/a06z/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrMf7qG8/sony-ten-5.png",Sony Ten 5
-http://watchindia.net:8880/live/54355/61270/2663.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bdcgLhkR/Willow-HD-TV.png",Willow Cricket
-http://watchindia.net:8880/live/54355/61270/1067.m3u8
