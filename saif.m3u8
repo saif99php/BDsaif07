@@ -358,7 +358,7 @@ http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8
 https://tvsen5.aynaott.com/tsports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sf68z3fJ/PTV.png",PTV
-https://maxplay-tv.fun/cric.m3u8?id=ptvpk
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12027
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hjgwTtst/star-sports-2.png",Star Sports 2 Hindi
 https://live.dinesh29.com.np/stream/jiotv/starsports2hindi/master.m3u8
