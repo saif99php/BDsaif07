@@ -452,11 +452,11 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/401338313.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Zn70YRv/Ten-Sports-HD.png",Ten Sports HD
 http://nayatv.ydns.eu:80/xfireflix/flixfire/12330
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",INT | TNT SPORTS 01 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnHbv5BK/tnt.png",TNT SPORTS 01 HD
 http://nayatv.ydns.eu:80/xfireflix/flixfire/12555
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",INT | TNT SPORTS 02 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnHbv5BK/tnt.png", TNT SPORTS 02 HD
 http://nayatv.ydns.eu:80/xfireflix/flixfire/12556
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",INT | TNT SPORTS 03 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnHbv5BK/tnt.png", TNT SPORTS 03 HD
 http://nayatv.ydns.eu:80/xfireflix/flixfire/12557
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",INT | SKY SPORTS CRICKET HD
 http://nayatv.ydns.eu:80/xfireflix/flixfire/12558
@@ -468,13 +468,13 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/12149
 http://nayatv.ydns.eu:80/xfireflix/flixfire/12150
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",INT | NBC GOLF HD
 http://nayatv.ydns.eu:80/xfireflix/flixfire/12151
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",INT | ESPN HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvnkjGdS/espn.png",  ESPN HD
 http://nayatv.ydns.eu:80/xfireflix/flixfire/12222
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",INT | ESPN 2 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvnkjGdS/espn.png", ESPN 2 HD
 http://nayatv.ydns.eu:80/xfireflix/flixfire/12223
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",INT | ESPN NEWS FHD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvnkjGdS/espn.png", ESPN NEWS FHD
 http://nayatv.ydns.eu:80/xfireflix/flixfire/12224
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",INT | ESPN U FHD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvnkjGdS/espn.png",ESPN U FHD
 http://nayatv.ydns.eu:80/xfireflix/flixfire/12225
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",AFG | SOLH SPORTS
 http://nayatv.ydns.eu:80/xfireflix/flixfire/12349
@@ -490,13 +490,13 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/12353
 http://nayatv.ydns.eu:80/xfireflix/flixfire/12523
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",PK | TEN SPORTS FHD
 http://nayatv.ydns.eu:80/xfireflix/flixfire/12522
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",PK | PTV SPORTS HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sf68z3fJ/PTV.png", PTV SPORTS HD
 http://nayatv.ydns.eu:80/xfireflix/flixfire/12521
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",PK | PTV SPORTS FHD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sf68z3fJ/PTV.png", PTV SPORTS FHD
 http://nayatv.ydns.eu:80/xfireflix/flixfire/12520
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",PK | A SPORTS HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrPwGGSW-/A-Sports.png", A SPORTS HD
 http://nayatv.ydns.eu:80/xfireflix/flixfire/12519
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",PK | A SPORTS FHD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrPwGGSW-/A-Sports.png",  A SPORTS FHD
 http://nayatv.ydns.eu:80/xfireflix/flixfire/12518
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",7 NEWS FHD
 http://nayatv.ydns.eu:80/xfireflix/flixfire/6366
