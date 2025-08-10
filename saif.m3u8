@@ -467,10 +467,10 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/12558
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn9yJbFH/LA-LIGA-TV-HD.png", LA LIGA TV HD
 http://nayatv.ydns.eu:80/xfireflix/flixfire/12148
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdD1dBLY/Sky-Football.png" SKY SPORTS PREMIER LEAGUE HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdD1dBLY/Sky-Football.png" ,SKY SPORTS PREMIER LEAGUE HD
 http://nayatv.ydns.eu:80/xfireflix/flixfire/12149
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqYdhM08/bein-sports.png" BEIN SPORTS HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqYdhM08/bein-sports.png" ,BEIN SPORTS HD
 http://nayatv.ydns.eu:80/xfireflix/flixfire/12150
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvnkjGdS/espn.png",  ESPN HD
@@ -485,7 +485,7 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/12224
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvnkjGdS/espn.png",ESPN U FHD
 http://nayatv.ydns.eu:80/xfireflix/flixfire/12225
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0x25xDL/tsn.png" TEN SPORTS HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0x25xDL/tsn.png" ,TEN SPORTS HD
 http://nayatv.ydns.eu:80/xfireflix/flixfire/12523
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d0x25xDL/tsn.png",TEN SPORTS FHD
