@@ -143,6 +143,9 @@ https://tvsen6.aynaott.com/ShemarooTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtVhf4yn/Untitled-design-removebg-preview.png",Afghannobel tv
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1694401036.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXKS7SVc/sony-entertainment-television.png",Sony TV HD
+https://tvsen5.aynaott.com/Wfn4bVp3dLgA/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kMNJ02zf/b4u-movies.png",B4U Movies
 https://tvsen7.aynaott.com/B4U_Movies_India/index.m3u8
 
@@ -212,9 +215,6 @@ https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hvZ3kbBX/zee-cinema-hd.png",Zee Cinema HD
 http://smart.bengaldigital.live/ZeeCinema/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXKS7SVc/sony-entertainment-television.png",Sony TV HD
-https://tvsen5.aynaott.com/Wfn4bVp3dLgA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zfh5bVv5/ZEE-BANGLA-HD.png",ZEE-BANGLA-HD
 https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
