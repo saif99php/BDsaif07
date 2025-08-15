@@ -85,6 +85,14 @@ https://tvsen6.aynaott.com/news24/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Pqg7DJDb/Asian-TV.png",Asian-TV
 https://tvsen6.aynaott.com/asiantv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sg68v3jB/Discovery-Bangla.png",Discovery Bangla
+https://tvsen6.aynaott.com/discovery_hd_bangla/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfh5bVv5/ZEE-BANGLA-HD.png",ZEE-BANGLA-HD
+https://tvsen5.aynaott.com/PNEb3v2q6GBk/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXDJtztS/STAR-JALSHA.png",Star Jalsha
+https://tvsen5.aynaott.com/gUX8BJmNc2yF/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4jtZ6yK/PEACE-TV.png",Peace TV Bangla HD
 https://tvsen7.aynaott.com/PeaceTvBanglaHD/index.m3u8
 
@@ -127,15 +135,6 @@ https://tvsen6.aynaott.com/RupshiBangla/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8ChBYm1/ANANDA-TV.png",Ananda TV
 https://tvsen6.aynaott.com/anandatv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sg68v3jB/Discovery-Bangla.png",Discovery Bangla
-https://tvsen6.aynaott.com/discovery_hd_bangla/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfh5bVv5/ZEE-BANGLA-HD.png",ZEE-BANGLA-HD
-https://tvsen5.aynaott.com/PNEb3v2q6GBk/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXDJtztS/STAR-JALSHA.png",Star Jalsha
-https://tvsen5.aynaott.com/gUX8BJmNc2yF/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZhqJm6W/shemaroo.png",ShemarooTV
 https://tvsen6.aynaott.com/ShemarooTV/index.m3u8
