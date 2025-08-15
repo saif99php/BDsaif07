@@ -213,6 +213,9 @@ https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hvZ3kbBX/zee-cinema-hd.png",Zee Cinema HD
 http://smart.bengaldigital.live/ZeeCinema/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXKS7SVc/sony-entertainment-television.png",Sony TV HD
+https://tvsen5.aynaott.com/Wfn4bVp3dLgA/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zfh5bVv5/ZEE-BANGLA-HD.png",ZEE-BANGLA-HD
 https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 
@@ -376,6 +379,7 @@ https://tvsen5.aynaott.com/tsports/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sf68z3fJ/PTV.png",PTV
 http://nayatv.ydns.eu:80/xfireflix/flixfire/12027
 
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hjgwTtst/star-sports-2.png",Star Sports 2 Hindi
 https://live.dinesh29.com.np/stream/jiotv/starsports2hindi/master.m3u8
 
@@ -405,6 +409,7 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=asportshd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SNSpfbQr/Star-Sports-1-HD.png",Star_Sports_1_HD
 https://tvsen6.aynaott.com/spsel1/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bdcgLhkR/Willow-HD-TV.png",Willow HD TV
 https://tvsen5.aynaott.com/willowhd/index.m3u8
