@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,TAMASHA LIVE ASIA CUP⚾
+https://alibabacdn2.tamashaweb.com/alibaba02/alibaba02stream_480p.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D08x0bfP/T-Sports.png",T-Sports
 http:\\103.73.107.122:3255\TSportsHD\index.m3u8
 
