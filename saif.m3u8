@@ -3,8 +3,12 @@
 #EXTINF:-1,TAMASHA LIVE ASIA CUP⚾
 https://alibabacdn2.tamashaweb.com/alibaba02/alibaba02stream_480p.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FsyC9HB/NAGORIK-TV.png",NAGORIK-TV
+http:\\203.18.159.115:8081\NAGORIK\index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D08x0bfP/T-Sports.png",T-Sports
-http:\\103.73.107.122:3255\TSportsHD\index.m3u8
+http://203.18.159.115:8081/T_SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Sxt3yDNv/ATN-NEWS-HD.png",ATN-NEWS-HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
@@ -161,7 +165,7 @@ https://tvsen6.aynaott.com/independenttv/index.m3u8
 https://tvsen6.aynaott.com/somoytv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FsyC9HB/NAGORIK-TV.png",NAGORIK-TV
-https://tvsen6.aynaott.com/nagoriktv/index.m3u8
+http:\\203.18.159.115:8081\NAGORIK\index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtN4dDP7/EKATTOR-TV-HD.png",EKATTOR-TV-HD
 https://tvsen6.aynaott.com/ekattorbdtv/index.m3u8
