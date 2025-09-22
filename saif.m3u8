@@ -6,6 +6,8 @@ http://175.107.244.52:4456/play/a042
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FsyC9HB/NAGORIK-TV.png",NAGORIK-TV
 https://dish.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hjgwTtst/star-sports-2.png",Star Sports 2 Hindi HD
+https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D08x0bfP/T-Sports.png",T-Sports
 https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8
@@ -87,6 +89,19 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qv86rZLk/SOMOY-TV-HD.png",SOMOY-TV-HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFfYJQWw/CHANNEL-9-HD.png",CHANNEL-9-HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2SqTxmr0/Ekhon-TV.png",Ekhon-TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJ62JhMQ/DBC-NEWS.png",DBC-NEWS
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8NVtnTd/RTV-HD.png",RTV-HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtN4dDP7/EKATTOR-TV-HD.png",EKATTOR-TV-HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/playlist.m3u8
