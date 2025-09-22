@@ -4,11 +4,11 @@
 http://175.107.244.52:4456/play/a042
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FsyC9HB/NAGORIK-TV.png",NAGORIK-TV
-http://203.18.159.115:8081/NAGORIK/index.m3u8
+https://dish.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D08x0bfP/T-Sports.png",T-Sports
-http://203.18.159.115:8081/T_SPORTS/index.m3u8
+https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Sxt3yDNv/ATN-NEWS-HD.png",ATN-NEWS-HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
