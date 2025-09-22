@@ -86,6 +86,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ryQJXzph/INDEPENDENT-TV.png",INDEPENDENT-TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLbKYDdL/MAASRANGA-TV-HD.png",MAASRANGA-TV-HD
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qv86rZLk/SOMOY-TV-HD.png",SOMOY-TV-HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
