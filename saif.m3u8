@@ -95,6 +95,15 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jjbNJr5w/MY-TV-HD.png",MY-TV-HD
 https://mytvbangla.com/0.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfh5bVv5/ZEE-BANGLA-HD.png",ZEE-BANGLA-HD
+https://smart.bengaldigital.live/Zee-Bangla/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXDJtztS/STAR-JALSHA.png",Star Jalsha
+https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GmHbRM14/SUN-BANGLA.png",Sun Bangla
+https://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rFfYJQWw/CHANNEL-9-HD.png",CHANNEL-9-HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8
