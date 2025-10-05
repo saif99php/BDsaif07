@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sf68z3fJ/PTV.png",PTV
-https://inox.iamfreedishbhai.workers.dev/crichd/ptvpk.m3u8
+http://66.102.120.18:8000/play/a04w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FsyC9HB/NAGORIK-TV.png",NAGORIK-TV
 http://stvlive.net:8080/nagorik/index.m3u8
