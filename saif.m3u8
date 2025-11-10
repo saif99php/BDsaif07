@@ -64,36 +64,36 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bJYt3H1q/NTV.png",NTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6pQFJDwZ/ATN-BANGLA-HD.png",ATN Bangla
-https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8VpXj0X/CHANNEL-I-HD.png",CHANNEL-I-HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSJQ7X49/JAMUNA-TV.png",JAMUNA-TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Sxt3yDNv/ATN-NEWS-HD.png",ATN-NEWS-HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bwdVFkHH/CHANNEL-24-HD.png",CHANNEL-24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtN4dDP7/EKATTOR-TV-HD.png",EKATTOR-TV-HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ryQJXzph/INDEPENDENT-TV.png",INDEPENDENT-TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLbKYDdL/MAASRANGA-TV-HD.png",MAASRANGA-TV-HD
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qv86rZLk/SOMOY-TV-HD.png",SOMOY-TV-HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jjbNJr5w/MY-TV-HD.png",MY-TV-HD
 https://mytvbangla.com/0.m3u8
@@ -448,7 +448,7 @@ https://iptvbd.live/metv1080/1080.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2SqTxmr0/Ekhon-TV.png",EKHON TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtN4dDP7/EKATTOR-TV-HD.png",EKATTOR-TV-HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1692000.m3u8
@@ -458,7 +458,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/v8NVtnTd/RTV-HD.png",RTV-HD
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qv86rZLk/SOMOY-TV-HD.png",SOMOY-TV-HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8
