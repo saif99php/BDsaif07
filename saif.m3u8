@@ -260,6 +260,26 @@ http://87.255.35.150:18237
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJrXXVF0/Colors-bangla-hd.png",Colors Bengali HD
 http://87.255.35.150:18236
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/155QbJp3/sony-ten-1.png",Sony Ten 1
+http://87.255.35.150:18926
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Ysk40VM/sony-ten-2.png",Sony Ten 2
+http://87.255.35.150:18927
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrMf7qG8/sony-ten-5.png",Sony Ten 5
+http://87.255.35.150:18818
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNSpfbQr/Star-Sports-1-HD.png",Star_Sports_1_HD
+http://87.255.35.150:18923
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hjgwTtst/star-sports-2.png",Star Sports 2 Hindi HD
+http://87.255.35.150:18828
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hjgwTtst/star-sports-2.png",Star Sports 2 Hindi HD
+http://87.255.35.150:18804
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7L66sTxK/SonyLIV.png",SONY LIV
 https://dai.google.com/linear/hls/event/biQJgf06SJCitj-nd502ow/master.m3u8
 
@@ -513,7 +533,6 @@ https://dai.google.com/linear/hls/event/biQJgf06SJCitj-nd502ow/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nrPwGGSW-/A-Sports.png",A sports
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNSpfbQr/Star-Sports-1-HD.png",Star_Sports_1_HD
 
 
 
@@ -530,17 +549,8 @@ https://dai.google.com/linear/hls/event/biQJgf06SJCitj-nd502ow/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SNSpfbQr/Star-Sports-1-HD.png",Star_Sports_1_HD
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/155QbJp3/sony-ten-1.png",Sony Ten 1
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Ysk40VM/sony-ten-2.png",Sony Ten 2
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Ysk40VM/sony-ten-2.png",Sony Ten 2
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrMf7qG8/sony-ten-5.png",Sony Ten 5
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bdcgLhkR/Willow-HD-TV.png",Willow Cricket
 
@@ -557,10 +567,6 @@ https://dai.google.com/linear/hls/event/biQJgf06SJCitj-nd502ow/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4dXMfdhW/EUROSPORT-HD.png",Eurosport HD
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hjgwTtst/star-sports-2.png",Star Sports 2 Hindi HD
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hjgwTtst/star-sports-2.png",Star Sports 2 Hindi HD
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hjgwTtst/star-sports-2.png",Star Sports 2 Hindi HD
