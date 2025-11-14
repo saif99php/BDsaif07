@@ -246,6 +246,12 @@ http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfh5bVv5/ZEE-BANGLA-HD.png",ZEE-BANGLA-HD
+http://87.255.35.150:18238
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXDJtztS/STAR-JALSHA.png",Star Jalsha
+http://87.255.35.150:18237
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7L66sTxK/SonyLIV.png",SONY LIV
 https://dai.google.com/linear/hls/event/biQJgf06SJCitj-nd502ow/master.m3u8
 
@@ -377,12 +383,6 @@ https://dai.google.com/linear/hls/event/biQJgf06SJCitj-nd502ow/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sg68v3jB/Discovery-Bangla.png",Discovery Bangla
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfh5bVv5/ZEE-BANGLA-HD.png",ZEE-BANGLA-HD
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXDJtztS/STAR-JALSHA.png",Star Jalsha
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4jtZ6yK/PEACE-TV.png",Peace TV Bangla HD
