@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D08x0bfP/T-Sports.png",T-Sports
-http://stvlive.net:8080/tsports1/index.m3u8
+http://103.240.44.26/T-Sports-HD/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Sxt3yDNv/ATN-NEWS-HD.png",ATN-NEWS-HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
@@ -250,6 +250,8 @@ http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/vHGmJLBn/DD-Bangla.png",DD Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJrXXVF0/Colors-bangla-hd.png",Colors Bengali HD
+https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zfh5bVv5/ZEE-BANGLA-HD.png",ZEE-BANGLA-HD
 http://87.255.35.150:18238
@@ -259,6 +261,7 @@ http://87.255.35.150:18237
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJrXXVF0/Colors-bangla-hd.png",Colors Bengali HD
 http://87.255.35.150:18236
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/155QbJp3/sony-ten-1.png",Sony Ten 1
 http://87.255.35.150:18926
