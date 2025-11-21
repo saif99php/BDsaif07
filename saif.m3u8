@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D08x0bfP/T-Sports.png",T-Sports
-http://103.240.44.26/T-Sports-HD/index.fmp4.m3u8
+http://103.135.132.54:88/tsportshd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Sxt3yDNv/ATN-NEWS-HD.png",ATN-NEWS-HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
