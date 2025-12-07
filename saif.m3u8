@@ -520,7 +520,10 @@ http://51.83.129.17/Nagorik/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hjgwTtst/star-sports-2.png",Star Sports 2 Hindi
+http://ctv.sungohd.com:18804
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hjgwTtst/star-sports-2.png",Star Sports 2 Hindi
+http://87.255.35.150:18882
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdD1dBLY/Sky-Football.png",Sky Sports
 
@@ -556,16 +559,20 @@ http://51.83.129.17/Nagorik/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SNSpfbQr/Star-Sports-1-HD.png",Star_Sports_1_HD
+http://87.255.35.150:18882
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNSpfbQr/Star-Sports-1-HD.png",Star_Sports_1_HD
+https://starsportshindiii.pages.dev/720p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Ysk40VM/sony-ten-2.png",Sony Ten 2
+http://87.255.35.150:18926
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bdcgLhkR/Willow-HD-TV.png",Willow Cricket
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Ysk40VM/sony-ten-2.png",SONY TEN 2 HD
-
+http://87.255.35.150:18927
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xjpmCdBD/Astro-Football.png",Astro_Football
 
@@ -582,7 +589,7 @@ http://51.83.129.17/Nagorik/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mgv0z8yW/Star-Sports-Khel.png",Star Sports Khel
-
+https://starsportshindiii.pages.dev/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJWF5NxH/Jio-Sports-HD.png",Jio Sports HD
 
