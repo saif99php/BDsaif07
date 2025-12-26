@@ -65,6 +65,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-vid
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jjbNJr5w/MY-TV-HD.png",MY-TV-HD
 https://mytvbangla.com/0.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8qW2jPk/MOHONA-TV-HD.png",MOHONA-TV-HD
+https://tvsen6.aynaott.com/mohonatv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zfh5bVv5/ZEE-BANGLA-HD.png",ZEE-BANGLA-HD
 https://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 
@@ -344,9 +347,6 @@ https://tvsen5.aynaott.com/Ptvsports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FsyC9HB/NAGORIK-TV.png",NAGORIK-TV
 http://51.83.129.17/Nagorik/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8qW2jPk/MOHONA-TV-HD.png",MOHONA-TV-HD
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y8Lm28ym/BTV-HD.png",BTV-HD
 
